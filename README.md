@@ -1,2 +1,2 @@
 # amazon-products-scrapper
-Scrapping title, price and rating of laptops on amazon
+Scrapes laptop product data from Amazon, extracting title, price, and rating
